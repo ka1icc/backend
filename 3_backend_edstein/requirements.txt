@@ -1,0 +1,27 @@
+# Web framework
+fastapi>=0.109,<0.116
+uvicorn[standard]>=0.27
+
+# Database
+sqlalchemy[asyncio]>=2.0
+asyncpg>=0.29
+aiosqlite>=0.19
+alembic>=1.13
+
+# HTTP client
+httpx>=0.26
+
+# Config & validation
+pydantic>=2.5
+pydantic-settings>=2.1
+
+# Caching
+cachetools>=5.3
+
+# Utils
+python-dotenv>=1.0
+
+# Code quality (PEP8, wemake-python-styleguide, isort)
+flake8>=7.0
+wemake-python-styleguide>=0.18
+isort>=5.13
