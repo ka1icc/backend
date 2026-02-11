@@ -2,6 +2,7 @@
 
 Бэкенд для погоды города Казань. Данные берём из AccuWeather API.  
 Сделано на Python, FastAPI, PostgreSQL, SQLAlchemy. Есть простая веб-страница и Swagger.
+Edstein (https://github.com/Hexlet/ru-test-assignments/tree/main/backend/Edstein)
 
 ---
 
