@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment and secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated / local
+via_routes_comparison_report.txt
+
+# OS
+.DS_Store
+Thumbs.db
