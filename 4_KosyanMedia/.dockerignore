@@ -1,0 +1,12 @@
+venv
+.env
+.idea
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+*.md
+SCREEN
+via_routes_comparison_report.txt
+.env.example
